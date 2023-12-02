@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\bin\Debug\net6.0\FacadeTask.exe
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\bin\Debug\net6.0\FacadeTask.deps.json
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\bin\Debug\net6.0\FacadeTask.runtimeconfig.json
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\bin\Debug\net6.0\FacadeTask.dll
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\bin\Debug\net6.0\FacadeTask.pdb
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.dll
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\refint\FacadeTask.dll
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.pdb
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\FacadeTask.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\FacadeTask\FacadeTask\obj\Debug\net6.0\ref\FacadeTask.dll
